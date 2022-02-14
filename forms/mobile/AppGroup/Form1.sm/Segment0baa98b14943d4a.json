@@ -1,0 +1,147 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bounces_": true,
+    "_data_": [
+        {
+            "Image0d381fc94c1ca4d": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "acme.png"
+            },
+            "Image0gf0da26d20b14b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "kony_150.png"
+            },
+            "Label0e90c2c05d54c4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Annual Statement 2019"
+            }
+        },
+        {
+            "Image0d381fc94c1ca4d": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "acme.png"
+            },
+            "Image0gf0da26d20b14b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "kony_150.png"
+            },
+            "Label0e90c2c05d54c4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Annual Charges Statement 2018"
+            }
+        },
+        {
+            "Image0d381fc94c1ca4d": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "acme.png"
+            },
+            "Image0gf0da26d20b14b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "kony_150.png"
+            },
+            "Label0e90c2c05d54c4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Annual Statement 2018"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0baa98b14943d4a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": true,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cc461a401f614517970a249e9f691227",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "Form1",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "5b5ada69c50746feba6a40270fa09838",
+    "rowcounter": 2,
+    "rowfocusskin": "s4737c57dae14f6b8981523dd8b76071",
+    "rowskin": "sc8fd3d028ec491bb1216f5482435f41",
+    "rowtemplate": "flxSampleRowTemplate",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s69024367330411b8acf13601031847c",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Image0d381fc94c1ca4d": "Image0d381fc94c1ca4d",
+        "Image0gf0da26d20b14b": "Image0gf0da26d20b14b",
+        "Label0e90c2c05d54c4e": "Label0e90c2c05d54c4e",
+        "flxSampleRowTemplate": "flxSampleRowTemplate"
+    },
+    "zindex": 1
+}
